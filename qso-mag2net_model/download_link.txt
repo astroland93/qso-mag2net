@@ -1,0 +1,5 @@
+The CNN model can be downloaded here:
+
+https://drive.google.com/drive/folders/1Ay-osxOoBAnM-t1bgi5n0VWZXlRo-QbF?usp=sharing
+
+Have fun with it!
