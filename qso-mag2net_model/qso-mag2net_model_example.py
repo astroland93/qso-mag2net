@@ -29,7 +29,7 @@ from tensorflow.keras.optimizers import Adam
 # generator used for training
 import sys
 sys.path.append('../notebooks/')
-from generators import generator_WLfull
+from generators import generator_fiducial_model
 
 from tensorflow.compat.v1 import ConfigProto
 from tensorflow.compat.v1 import InteractiveSession
